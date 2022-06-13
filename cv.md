@@ -1,5 +1,5 @@
 ### Alina Sirotyuk ###
-![my photo](/img/my.photo.jpg)
+![my photo](/img/photo.jpg)
 #### Junior Frontend Developer 
 *******
 #### Contact information:
