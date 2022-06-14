@@ -102,7 +102,14 @@ h3 {
     padding-top: 40px;
 }
 
-
+.link_contact {
+    text-decoration: none;
+    color: white
+}
+.link_contact:hover {
+    color: #bdae82;
+    transition: 0.5s;
+}
 
 .text_skills {
     color: white;
