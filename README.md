@@ -1,1 +1,1 @@
-https://zefirkamoriarty.github.io/rsschool-cv/
+# rsschool-cv
