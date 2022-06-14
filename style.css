@@ -139,3 +139,14 @@ h3 {
     justify-content: space-around;
     align-items: center;       
 }
+#education:hover,
+#contacts:hover,
+#projects:hover,
+#skills:hover,
+#code:hover,
+#english:hover  {
+    box-shadow: 5px 5x 5px 5px rgb(161, 157, 157);
+    transition: 0.8s;
+    background: rgb(14, 13, 13);
+    border-radius: 9px;
+}
