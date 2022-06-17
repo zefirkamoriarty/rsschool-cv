@@ -14,12 +14,15 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    
+    margin: 0 auto;
+    padding: 0;
+   
 }
 .header_container {
     display: flex;
     height: 90px;
-    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
 }
 
 .header_nav{
@@ -133,7 +136,8 @@ h3 {
 }
 
 .footer_container {
-    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
     height: 120px;
     display: flex;
     justify-content: space-around;
